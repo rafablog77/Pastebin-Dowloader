@@ -1,4 +1,9 @@
 # Pastebin Dowloader
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](/LICENSE)
+[![Made with Python](https://img.shields.io/badge/Python->=3.1-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+[![dependency - requests](https://img.shields.io/badge/dependency-requests-blue)](https://pypi.org/project/requests)
+[![GitHub release](https://img.shields.io/github/release/rafablog77/Pastebin-Dowloader?include_prereleases=&sort=semver&color=blue)](https://github.com/rafablog77/Pastebin-Dowloader/releases/)
+[![issues - Pastebin-Dowloader](https://img.shields.io/github/issues/rafablog77/Pastebin-Dowloader)](https://github.com/rafablog77/Pastebin-Dowloader/issues)  
 Pastebin Downloader is a program to download pastes from [Pastebin.com](https://pastebin.com/).
 # Installation
 There are 2 instalation methods:
