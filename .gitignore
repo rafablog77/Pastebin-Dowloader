@@ -1,0 +1,10 @@
+# packager files
+poetry.lock
+pyproject.toml
+
+# packager folders
+.pythonlibs/
+.upm/
+
+# replit configuration file
+.replit
