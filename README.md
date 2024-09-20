@@ -3,9 +3,10 @@
 [![Made with Python](https://img.shields.io/badge/Python->=3.1-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 [![dependency - requests](https://img.shields.io/badge/dependency-requests-blue)](https://pypi.org/project/requests)
 [![GitHub tag](https://img.shields.io/github/tag/rafablog77/Pastebin-Dowloader?include_prereleases=&sort=semver&color=blue)](https://github.com/rafablog77/Pastebin-Dowloader/releases/)
-[![issues - Pastebin-Dowloader](https://img.shields.io/github/issues/rafablog77/Pastebin-Dowloader)](https://github.com/rafablog77/Pastebin-Dowloader/issues)  
+[![issues - Pastebin-Dowloader](https://img.shields.io/github/issues/rafablog77/Pastebin-Dowloader)](https://github.com/rafablog77/Pastebin-Dowloader/issues)
+[![Translation Progress](https://translate.codeberg.org/widget/pastebin-downloader/main/svg-badge.svg)](https://translate.codeberg.org/engage/pastebin-downloader/)  
 Pastebin Downloader is a program to download pastes from [Pastebin.com](https://pastebin.com/).
-# Installation
+## Installation
 There are 2 instalation methods:
 ### Method 1, Git Installation:
 You can install Pastebin Dowloader using Git with the following instructions:
@@ -23,3 +24,6 @@ To use Pastebin Dowloader follow the instructions:
 2. Click the "download" button.
 3. A "Save File" prompt wil appear, use it to save the file.  
 The saved file contains the paste's content.
+## Translations
+Pastebin Downloader also has translations to othe languages. the full list of translations and progress is here:  
+[![Translation List](https://translate.codeberg.org/widget/pastebin-downloader/main/multi-auto.svg)](https://translate.codeberg.org/engage/pastebin-downloader/)
