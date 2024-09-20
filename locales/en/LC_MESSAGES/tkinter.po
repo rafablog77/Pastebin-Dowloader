@@ -1,0 +1,17 @@
+msgid "Pastebin Downloader"
+msgstr "Pastebin Downloader"
+
+msgid "Text files"
+msgstr "Text files"
+
+msgid "All files"
+msgstr "All files"
+
+msgid "Save File"
+msgstr "Save File"
+
+msgid "Paste Key:"
+msgstr "Paste Key:"
+
+msgid "download"
+msgstr "download"
